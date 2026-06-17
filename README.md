@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋, I'm Denis Munene
 
-<!--
-**denis-munene/denis-munene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Actuarial Professional | Financial Modeler | Data Analyst**
 
-Here are some ideas to get you started:
+I specialize in translating complex mathematical concepts and raw data into actionable business intelligence. A proud graduate of Dedan Kimathi University of Technology in Actuarial Science, I build robust financial risk models and design end-to-end data pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Stack
+* **Languages:** Python, SQL, C++, DAX
+* **Data & BI Tools:** Power BI, Pandas, Relational Databases
+* **Modeling & Engineering:** Financial Risk Modeling, Mortality Tables, Embedded Systems (Arduino/Proteus)
+
+### 🚀 What I'm Doing
+* **Currently Working On:** Developing interactive business intelligence dashboards and tracking English Premier League analytics.
+* **Professional Experience:** Building financial models for renewable energy projects and conducting rigorous actuarial risk assessments.
+* **Always Learning:** Advanced quantitative data analysis and refining database architectures.
+
+### 📫 Let's Connect
+* **LinkedIn:** []https://www.linkedin.com/in/denis-munene-a75b53318?utm_source=share_via&utm_content=profile&utm_medium=member_android
+* **Email:** [denismunene2004@gmail.com]
+*
